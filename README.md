@@ -21,7 +21,7 @@ I am currently seeking internship and full-time opportunities in areas such as:
 
 I am especially interested in roles that combine technical problem-solving with creativity, including opportunities in video games, animation, immersive technology, and broader software engineering.
 
-I am currently prioritizing remote roles or opportunities based in **Tucson, Arizona**, though I am open to relocating for the right full-time position. For internships, I am more flexible regarding location.
+I am open to remote, hybrid, and on-site opportunities across the United States, including roles that may require relocation. My priority is finding the right position where I can contribute, continue growing, and combine technical problem-solving with creativity.
 
 ## Technical Skills
 
