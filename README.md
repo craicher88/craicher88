@@ -55,13 +55,11 @@ Collaborated on an Unreal Engine 5 and Meta Quest virtual reality platform desig
 My contributions included:
 
 - Creating the original Figma prototype used to guide the experience flow and interface structure
-- Researching and designing scenarios for a military veteran customer archetype with a right-arm prosthesis
-- Replacing an earlier character implementation with a MetaHuman
-- Integrating and refining the prosthetic arm
-- Implementing Oculus Lip Sync and improving facial and body animation
-- Designing and developing the complete **Driving to a Job Interview** scenario
-- Building its environment, interactions, Blueprint gameplay logic, objective flow, HUD systems, lighting, audio, Niagara effects, and final integration
-- Supporting a working Meta Quest APK build that retained MetaHuman and lip-sync functionality
+- Researching Military Veteran Mike’s needs and designing eight scenario concepts, including the fully developed **Driving to a Job Interview** scenario
+- Rebuilding Mike as a custom MetaHuman and integrating a new prosthetic arm through rigging and character adjustments
+- Implementing Oculus Lip Sync and developing the facial response system needed for believable spoken dialogue
+- Designing and developing the complete **Driving to a Job Interview** scenario, including its environment, interactions, Blueprint gameplay logic, objective flow, HUD systems, lighting, audio, Niagara effects, and final integration
+- Helping achieve a working Meta Quest APK build that retained MetaHuman and lip-sync functionality
 
 ## Additional Background
 
