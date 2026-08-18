@@ -65,8 +65,6 @@ My contributions included:
 
 **Technologies:** Unreal Engine 5, Blueprints, MetaHuman, Meta Quest, Oculus Lip Sync, Figma, Maya
 
-[View repository →](https://github.com/craicher88/DeVILSona-VR-Capstone)
-
 ---
 
 ### [SunDevilConnect — Full-Stack College Club & Event Management System](https://github.com/craicher88/SunDevilConnect-FullStack)
@@ -86,8 +84,6 @@ Project highlights include:
 - Designed the user interface and application workflows from scratch
 
 **Technologies:** Java, Spring Boot, React, JavaScript, MySQL, SQL, JDBC/JdbcTemplate, REST APIs, Git
-
-[View repository →](https://github.com/craicher88/SunDevilConnect-FullStack)
 
 ## Additional Background
 
