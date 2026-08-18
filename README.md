@@ -85,6 +85,27 @@ Project highlights include:
 
 **Technologies:** Java, Spring Boot, React, JavaScript, MySQL, SQL, JDBC/JdbcTemplate, REST APIs, Git
 
+---
+
+### [Bookmarked — Full-Stack Book Tracking Application](https://github.com/craicher88/Bookmarked-FullStack-Database-App)
+
+A full-stack book tracking application developed as an Arizona State University CSE 412 Database Management final project.
+
+The application allows users to manage a personal book library, track reading and pre-order status, update book information, and view database-driven summary counts.
+
+Project highlights include:
+
+- Built a React frontend, Flask backend, and SQLite relational database
+- Implemented full CRUD workflows for adding, viewing, updating, and deleting books
+- Added search and sorting functionality for the book library
+- Designed database structures for book attributes, reading status, series information, and summary counters
+- Implemented row-level database triggers for `INSERT`, `UPDATE`, and `DELETE` operations to automatically maintain read and unread totals
+- Applied input validation, transactions, commits, and rollback behavior to support data integrity
+- Integrated frontend actions with backend database operations and automatic UI updates
+
+**Technologies:** React, JavaScript, Python, Flask, SQLite, SQL, HTML, CSS
+
+
 ## Additional Background
 
 Before completing my computer science degree, I earned a B.F.A. in Film and Animation. That background continues to shape my interest in interactive experiences, game development, animation technology, visual design, and tools that support creative production.
