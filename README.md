@@ -18,6 +18,7 @@ I am currently seeking internship and full-time opportunities in areas such as:
 - Tools and Engine Development
 - Technical Direction
 - Production and Creative Technology
+- Data Analysis
 
 I am especially interested in roles that combine technical problem-solving with creativity, including opportunities in video games, animation, immersive technology, and broader software engineering.
 
@@ -46,26 +47,53 @@ Git, GitHub, Jira, Taiga, Jupyter Notebook, RStudio, Eclipse, Visual Studio Code
 **Operating Systems:**  
 Windows, macOS, Linux/Unix
 
-## Featured Project
+## Projects
 
-### DeVILSona — VR Customer Archetype Learning Platform
+### [DeVILSona — VR Customer Archetype Learning Platform](https://github.com/craicher88/DeVILSona-VR-Capstone)
 
-Collaborated on an Unreal Engine 5 and Meta Quest virtual reality platform designed to help engineering students better understand customer needs through AI-assisted interviews and interactive scenarios.
+An immersive VR learning platform developed in Unreal Engine 5 for Meta Quest to help engineering students interact with an AI-driven customer archetype and experience realistic scenarios based on that customer's daily-life challenges.
 
 My contributions included:
 
-- Creating the original Figma prototype used to guide the experience flow and interface structure
-- Researching Military Veteran Mike’s needs and designing eight scenario concepts, including the fully developed **Driving to a Job Interview** scenario
-- Rebuilding Mike as a custom MetaHuman and integrating a new prosthetic arm through rigging and character adjustments
-- Implementing Oculus Lip Sync and developing the facial response system needed for believable spoken dialogue
-- Designing and developing the complete **Driving to a Job Interview** scenario, including its environment, interactions, Blueprint gameplay logic, objective flow, HUD systems, lighting, audio, Niagara effects, and final integration
-- Helping achieve a working Meta Quest APK build that retained MetaHuman and lip-sync functionality
+- Created the original Figma prototype used to guide experience flow and interface structure
+- Researched Military Veteran Mike’s needs and designed eight scenario concepts
+- Rebuilt Mike as a custom MetaHuman and integrated a prosthetic arm
+- Implemented Oculus Lip Sync and facial/body response behavior for spoken dialogue
+- Designed and developed the complete **Driving to a Job Interview** scenario, including environment design, vehicle interactions, Blueprint gameplay logic, objective flow, HUD systems, lighting, audio, Niagara effects, and final integration
+- Modified existing systems to support scripted spoken dialogue and persona voice switching
+- Helped achieve a working Meta Quest APK that retained MetaHuman and lip-sync functionality
+
+**Technologies:** Unreal Engine 5, Blueprints, MetaHuman, Meta Quest, Oculus Lip Sync, Figma, Maya
+
+[View repository →](https://github.com/craicher88/DeVILSona-VR-Capstone)
+
+---
+
+### [SunDevilConnect — Full-Stack College Club & Event Management System](https://github.com/craicher88/SunDevilConnect-FullStack)
+
+A full-stack web application designed and developed from requirements and system modeling through frontend, backend, database integration, and final presentation.
+
+The application supports role-based workflows for students, club officers, and administrators, including club and event discovery, event registration, membership requests, notifications, club management, administrative approvals, and flagged-content review.
+
+Project highlights include:
+
+- Designed a three-tier client-server architecture with a React frontend, Java Spring Boot backend, and MySQL database
+- Developed role-specific student, officer, and administrator dashboards
+- Implemented REST-based communication between frontend and backend systems
+- Designed relational database structures for users, clubs, events, memberships, notifications, and administrative requests
+- Applied Factory, Observer, and Strategy design patterns
+- Built a modular backend organized around controllers, management/service layers, repositories/DAOs, and data models
+- Designed the user interface and application workflows from scratch
+
+**Technologies:** Java, Spring Boot, React, JavaScript, MySQL, SQL, JDBC/JdbcTemplate, REST APIs, Git
+
+[View repository →](https://github.com/craicher88/SunDevilConnect-FullStack)
 
 ## Additional Background
 
 Before completing my computer science degree, I earned a B.F.A. in Film and Animation. That background continues to shape my interest in interactive experiences, game development, animation technology, visual design, and tools that support creative production.
 
-Most of my academic repositories remain private because they contain course materials or work governed by university policies. This profile highlights selected skills, responsibilities, and project outcomes without publishing restricted source code.
+Some of my academic source repositories remain private because they contain course materials or work governed by university policies. Public portfolio repositories below document selected projects, responsibilities, technologies, and outcomes without publishing restricted source code.
 
 ## Connect With Me
 
