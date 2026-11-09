@@ -4,7 +4,7 @@ I recently graduated **Summa Cum Laude from Arizona State University** with a **
 
 My background combines software engineering with visual design, storytelling, and user-centered problem-solving. Throughout my computer science degree, I explored full-stack development, distributed software systems, databases, artificial intelligence, machine learning, human-computer interaction, virtual reality, and game development.
 
-I also bring more than seven years of professional experience at Intuit, where I supported complex software systems, investigated financial data and software issues, improved technical support processes, contributed to cross-functional experiments, and helped identify and escalate high-impact software defects.
+I also bring more than seven years of professional experience at Intuit, where I supported complex software systems, investigated financial data and software issues, improved technical support processes, and contributed to cross-functional experiments.
 
 ## Career Interests
 
